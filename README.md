@@ -9,7 +9,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p> Estudando/trabalhando na **nome do lugar**<br/> Eu sou desenvolvedor **sua área**.</p>
-
+<br><br>
 <hr>
 
 ## Linguagens e ferramentas
