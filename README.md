@@ -51,7 +51,3 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 📷 [Instagram][instagram] **|**
 👔 [LinkedIn][linkedin]
 
-<div src="https://platform.linkedin.com/badges/js/profile.js" class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="kelvinchriis" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/kelvinchriis?trk=profile-badge">Kelvin Christian</a>
-</div>
-              
