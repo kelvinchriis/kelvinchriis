@@ -16,7 +16,7 @@ estou convicto e com foco para aprender e ingressar no mercado de trabalho sendo
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-Linguagens e ferramentas
+ 💼 Linguagens e ferramentas
 
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -29,13 +29,7 @@ Linguagens e ferramentas
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 
-<p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
 
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
