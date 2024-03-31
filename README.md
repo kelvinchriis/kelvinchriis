@@ -1,6 +1,6 @@
 <img align="right" width="100%" src="https://github.com/kelvinchriis/kelvinchriis/blob/main/20240330_191150.gif"/>
 <br>
-
+<br>
 <h1 style="margin-top: 100px">Conheça meu lado nerd🤓🧑‍💻</h1>
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
