@@ -7,7 +7,7 @@ como tudo funcionava. Mais ou menos com 14 anos decidi que queria uma carreira p
 liguei o computador e fui estudar com Gustavo Guanabára, não mantive constância e me arrependo disso. Porém, atualmente
 estou convicto e com foco para aprender e ingressar no mercado de trabalho sendo o melhor no que faço.
 
-<h2>Mais sobre mim</h2>
+<h2> 👦 Mais sobre mim</h2>
 
 
 
