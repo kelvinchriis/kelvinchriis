@@ -55,4 +55,4 @@ estou convicto e com foco para aprender e ingressar no mercado de trabalho sendo
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvinchriis&show_icons=true&theme=dracula&line_height=27" alt="**Kelvin Christian** github stats"/>
 </a>
 
-
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](github.com/kelvinchriis)
