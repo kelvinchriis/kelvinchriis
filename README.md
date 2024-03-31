@@ -1,4 +1,4 @@
-<img align="right" width="100%" margin-bottom="20px" src="https://github.com/kelvinchriis/kelvinchriis/blob/main/20240330_191150.gif"/>
+<img align="right" width="100%" style="margin-bottom: 20px" src="https://github.com/kelvinchriis/kelvinchriis/blob/main/20240330_191150.gif"/>
 <br>
 
 # Conheça meu lado nerd🤓🧑‍💻
