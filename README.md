@@ -2,7 +2,7 @@
 <br>
 <br>
 
-# Oie devs 👋
+# Conheça meu lado nerd🤓🧑‍💻
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
