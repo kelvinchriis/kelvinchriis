@@ -10,7 +10,7 @@ Desde criança, sou fascinado por tecnologia. Apesar do acesso limitado, minha c
 
 ## 👦 Mais sobre mim
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="200px" align="right">
 
 Comecei e não concluí cursos em duas faculdades, mas isso não me impediu de adquirir conhecimento significativo durante esse tempo. Hoje, continuo meus estudos de forma autodidata, embora esteja buscando formação técnica e, eventualmente, uma graduação. Em março de 2024, comecei a estudar React e Bootstrap, sempre aprofundando nos temas que já conheço para realmente dominá-los. Meu objetivo é me tornar um **Desenvolvedor Full-Stack**.
 
