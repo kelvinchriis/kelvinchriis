@@ -45,7 +45,7 @@ estou convicto e com foco para aprender e ingressar no mercado de trabalho sendo
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-## ⭐ GitHub Stats
+## ⭐ GitHub Status
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinchriis&theme=dracula&hide_langs_below=1" />
