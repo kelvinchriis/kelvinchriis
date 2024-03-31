@@ -18,7 +18,6 @@ estou convicto e com foco para aprender e ingressar no mercado de trabalho sendo
   Após ganhar uma gama de conhecimentoS irei me tornar um <strong>Desenvolvedor Full-Stack</strong>.<br>
 </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
-<br>
 <h3> 💼 Linguagens e ferramentas:</h3>
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
