@@ -1,5 +1,7 @@
 <img align="right" width="100%" src="https://github.com/kelvinchriis/kelvinchriis/blob/main/20240330_191150.gif"/>
 <h1>Conheça meu lado nerd🤓🧑‍💻</h1>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img src="https://img.shields.io/static/v1?label=Overview&message=Kelvin Christian&color=008b8b&style=for-the-badge&logo=GitHub">
 Pelo que lembro, gosto de tecnologia desde criança, apesar de não poder ter muito acesso, era muito curioso em saber
 como tudo funcionava. Mais ou menos com 14 anos decidi que queria uma carreira profissional em TI, então peguei um café
 liguei o computador e fui estudar com Gustavo Guanabára, não mantive constância e me arrependo disso. Porém, atualmente
@@ -8,8 +10,6 @@ estou convicto e com foco para aprender e ingressar no mercado de trabalho sendo
 ## Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=Kelvin Christian&color=008b8b&style=for-the-badge&logo=GitHub">
 
 <p> Estudando/trabalhando na **nome do lugar**<br/> Eu sou desenvolvedor **sua área**.</p>
