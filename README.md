@@ -45,10 +45,6 @@ estou convicto e com foco para aprender e ingressar no mercado de trabalho sendo
 <br>
 
 ## Rede sociais
-
-🏡 [Website][website] **|**
-🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
 📷 [Instagram][instagram] **|**
 👔 [LinkedIn][linkedin]
 
