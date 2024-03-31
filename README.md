@@ -15,7 +15,7 @@ estou convicto e com foco para aprender e ingressar no mercado de trabalho sendo
   Já cursei em duas faculdades, porém não concluí nenhuma, no entanto nesse período consegui bastante conhecimento.
   Atualmente estudo por mim mesmo, sempre costumei ser autodidata, mas procuro formação técnica e após uma graduação.
   Iniciei a estudar React e Boostrap no mês de março em 2024, sempre aprofundando mais no que já sei para dominar aquilo.
-  Após ganhar uma gama de conhecimento irei me tornar um <strong>Desenvolvedor Full-Stack</strong>.<br>
+  Após ganhar uma gama de conhecimentoS irei me tornar um <strong>Desenvolvedor Full-Stack</strong>.<br>
 </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 <h3> 💼 Linguagens e ferramentas:</h3>
@@ -35,15 +35,13 @@ estou convicto e com foco para aprender e ingressar no mercado de trabalho sendo
 <h3> 💌 Minhas redes sociais para contato:</h3>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="https://criarmeulink.com.br/u/1711880049" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/kelvinchriis" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=FF" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
+  <a href="https://wa.me/5511978699867?text=Ol%C3%A1%2C+Kelvin%2C+analisei+seu+portif%C3%B3lio+e+quero+entrar+em+contato" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
+  <a href="https://instagram.com/kelvinchriis" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
