@@ -1,3 +1,4 @@
+<img align="right" width="100%" src="https://raw.githubusercontent.com/kelvinchriis/kelvinchriis/main/20240330_191150.gif?token=GHSAT0AAAAAACQKOBACC4NCENZH4AGMUU6MZQJCLAA"/>
 # Oie devs 👋
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
@@ -5,7 +6,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ## Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-<img align="right" width="300" src="https://raw.githubusercontent.com/kelvinchriis/kelvinchriis/main/20240330_191150.gif?token=GHSAT0AAAAAACQKOBACC4NCENZH4AGMUU6MZQJCLAA"/>
+
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Kelvin Christian&color=008b8b&style=for-the-badge&logo=GitHub">
 
