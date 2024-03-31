@@ -9,7 +9,7 @@ estou convicto e com foco para aprender e ingressar no mercado de trabalho sendo
 
 <h2>Mais sobre mim</h2>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+
 
 <p align="left"> 
   Já cursei em duas faculdades, porém não concluí, no entanto consegui bastante conhecimento durante esse periodo.
@@ -17,7 +17,7 @@ estou convicto e com foco para aprender e ingressar no mercado de trabalho sendo
   <strong>Sua stack</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 <h3> 💼 Linguagens e ferramentas:</h3>
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
