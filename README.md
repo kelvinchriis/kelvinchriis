@@ -1,9 +1,9 @@
 <img align="right" width="100%" src="https://github.com/kelvinchriis/kelvinchriis/blob/main/20240330_191150.gif"/>
 <h1>Conheça meu lado nerd🤓🧑‍💻</h1>
 Pelo que eu lembre, gosto de tecnologia desde criança, apesar de não poder ter muito acesso.<br>
-Mais ou menos com 14 anos me decidi que queria uma carreira profissional em TI, então peguei um café
-liguei o computador e fui estudar com Gustavo Guanabára, não mantive constância e me arrependo disso.
-Porém, atualmente estou convicto e com foco para aprender e ingressar no mercado de trabalho
+Mais ou menos com 14 anos me decidi que queria uma carreira profissional em TI, então peguei um café<br>
+liguei o computador e fui estudar com Gustavo Guanabára, não mantive constância e me arrependo disso.<br>
+Porém, atualmente estou convicto e com foco para aprender e ingressar no mercado de trabalho<br>
 
 ## Mais sobre mim
 
