@@ -1,57 +1,45 @@
 <img align="right" width="100%" src="https://github.com/kelvinchriis/kelvinchriis/blob/main/20240330_191150.gif"/>
-<h1>Conheça meu lado nerd🤓🧑‍💻</h1>
+
+# Conheça meu lado nerd 🤓🧑‍💻
+
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-<img src="https://img.shields.io/static/v1?label=Overview&message=Kelvin Christian&color=008b8b&style=for-the-badge&logo=GitHub">
-Pelo que lembro, gosto de tecnologia desde criança, apesar de não poder ter muito acesso, era muito curioso em saber
-como tudo funcionava. Mais ou menos com 14 anos decidi que queria uma carreira profissional em TI, então peguei um café
-liguei o computador e fui estudar com Gustavo Guanabára, não mantive constância e me arrependo disso. Porém, atualmente
-estou convicto e com foco para aprender e ingressar no mercado de trabalho sendo o melhor no que faço.
 
-<h2> 👦 Mais sobre mim</h2>
+![Overview](https://img.shields.io/static/v1?label=Overview&message=Kelvin+Christian&color=008b8b&style=for-the-badge&logo=GitHub)
 
+Desde criança, sou fascinado por tecnologia. Apesar do acesso limitado, minha curiosidade sempre me motivou a entender como as coisas funcionam. Aos 14 anos, decidi seguir uma carreira em TI. Comecei a estudar com Gustavo Guanabara, mas, infelizmente, não mantive a constância. Agora, estou determinado a me focar e me tornar o melhor no que faço, buscando uma entrada sólida no mercado de trabalho.
 
+## 👦 Mais sobre mim
 
-<p align="left"> 
-  Já cursei em duas faculdades, porém não concluí nenhuma, no entanto nesse período consegui bastante conhecimento.
-  Atualmente estudo por mim mesmo, sempre costumei ser autodidata, mas procuro formação técnica e após uma graduação.
-  Iniciei a estudar React e Boostrap no mês de março em 2024, sempre aprofundando mais no que já sei para dominar aquilo.
-  Após ganhar uma gama de conhecimentos irei me tornar um <strong>Desenvolvedor Full-Stack</strong>.<br>
-</p>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
-<h3> 💼 Linguagens e ferramentas:</h3>
+Comecei e não concluí cursos em duas faculdades, mas isso não me impediu de adquirir conhecimento significativo durante esse tempo. Hoje, continuo meus estudos de forma autodidata, embora esteja buscando formação técnica e, eventualmente, uma graduação. Em março de 2024, comecei a estudar React e Bootstrap, sempre aprofundando nos temas que já conheço para realmente dominá-los. Meu objetivo é me tornar um **Desenvolvedor Full-Stack**.
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px" align="right">
 
+## 💼 Linguagens e ferramentas
 
-<h3> 💌 Minhas redes sociais para contato:</h3>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white)
+![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?&logo=gnome-terminal)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)
 
-<p align="left">
-  <a href="https://criarmeulink.com.br/u/1711880049" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/kelvinchriis" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=FF" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5511978699867?text=Ol%C3%A1%2C+Kelvin%2C+analisei+seu+portif%C3%B3lio+e+quero+entrar+em+contato" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="https://instagram.com/kelvinchriis" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+## 💌 Minhas redes sociais para contato
 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](https://criarmeulink.com.br/u/1711880049)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvinchriis)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/5511978699867?text=Olá,%20Kelvin,%20analisei%20seu%20portifólio%20e%20quero%20entrar%20em%20contato)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kelvinchriis)
 
 ## ⭐ GitHub Status
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/kelvinchriis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinchriis&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvinchriis&show_icons=true&theme=dracula&line_height=27" alt="**Kelvin Christian** github stats"/>
+<a href="https://github.com/kelvinchriis">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvinchriis&show_icons=true&theme=dracula&line_height=27" alt="Kelvin Christian github stats"/>
 </a>
