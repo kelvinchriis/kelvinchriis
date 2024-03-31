@@ -1,4 +1,4 @@
-<img align="right" width="100%" src="https://raw.githubusercontent.com/kelvinchriis/kelvinchriis/main/20240330_191150.gif?token=GHSAT0AAAAAACQKOBACC4NCENZH4AGMUU6MZQJCLAA"/>
+
 # Oie devs 👋
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
