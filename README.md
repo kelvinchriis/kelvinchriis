@@ -12,7 +12,9 @@ estou convicto e com foco para aprender e ingressar no mercado de trabalho sendo
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
+  Já cursei em duas faculdades, porém não concluí, no entanto consegui bastante conhecimento durante esse periodo.
+  Atualmente estudo por mim mesmo, sempre costumei ser autodidata, mas procuro formação técnica e após uma graduação
+  <strong>Sua stack</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
@@ -54,5 +56,3 @@ estou convicto e com foco para aprender e ingressar no mercado de trabalho sendo
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvinchriis&show_icons=true&theme=dracula&line_height=27" alt="**Kelvin Christian** github stats"/>
 </a>
-
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/kelvinchriis)
