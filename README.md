@@ -45,4 +45,5 @@ Comecei e não concluí cursos em duas faculdades, mas isso não me impediu de a
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvinchriis&show_icons=true&theme=dracula&line_height=27" alt="Kelvin Christian github stats"/>
 </a>
 
-![Snake animation](https://github.com/devlobao84/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kelvinchriis/kelvinchriis/blob/main/grid-snake.svg)
+<!--![Snake animation](https://github.com/devlobao84/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
